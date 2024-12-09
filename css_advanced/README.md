@@ -1,1 +1,1 @@
-Amazing project to fulfill my dream to beacome a full-stack developer
+Amazing project to fulfill my dream to become a full-stack developer
