@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b08f3813-07bf-4d9b-9b57-83370a228ef8" name="Changes" comment="Q.0 README">
-      <change afterPath="$PROJECT_DIR$/html_advanced/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733688077754</updated>
       <workItem from="1733688078908" duration="2982000" />
-      <workItem from="1733691570353" duration="1778000" />
+      <workItem from="1733691570353" duration="2369000" />
+      <workItem from="1733735676270" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="Q.0 README">
       <option name="closed" value="true" />
